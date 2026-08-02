@@ -30,8 +30,8 @@ Master Pigsty v4.4 from installation to production operations.
 
 | Module | Status |
 |----------|---------|
-| Introduction | ⬜ |
-| Installation | ⬜ |
+| Introduction | done |
+| Installation | done |
 | PostgreSQL | ⬜ |
 | HA | ⬜ |
 | Monitoring | ⬜ |
